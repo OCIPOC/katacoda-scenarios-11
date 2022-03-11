@@ -30,6 +30,9 @@ x = datetime.datetime.now()
 print(x)
 </pre>
 
+
+ccccc
+
 `python modules.py`{{execute}}
 
 As you can see above, we found a built-in module ```datetime``` that allows us to work with dates. We [Googled](https://www.w3schools.com/python/python_datetime.asp) *Python datetime module* to read up on how to use it, and then defined variable ```x``` as the time ```now``` within the class ```datetime``` using the module ```datetime```.
